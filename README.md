@@ -7,7 +7,7 @@ Esse site foi feito atravéz da plataforma da DIO, ainda está em fase de aperfe
 
 
 # 📋 Pré-requisitos
-para acessar o site, basta clicar no link abaixo:
+para acessar o site, basta clicar no link abaixo: https://isabelmelo4.github.io/LandingPage-StrangerThings/
 
 
 
